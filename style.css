@@ -6,5 +6,5 @@ button { background: #e8590c; color: white; border: 0;
          padding: 12px 22px; border-radius: 8px; cursor: pointer; margin: 4px; }
 section { margin-top: 24px; }
 ul { list-style: none; padding: 0; }
-body.dark { background: #14202e; }
+body.dark { background: #163355; }
 body.dark .card { background: #1f3147; color: #eef4fb; }
